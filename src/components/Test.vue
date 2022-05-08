@@ -71,44 +71,79 @@ export default {
           label: 99203,
           checked: false,
           modifier: "25",
-          cost: "75",
-          unit: "1"
+          cost: "85",
+          unit: "1",
         },
-        {
-          label: 99213,
+         {
+          label: 99212,
           checked: false,
           modifier: "25",
           cost: "55",
           unit: "1"
         },
         {
+          label: 99213,
+          checked: false,
+          modifier: "25",
+          cost: "65",
+          unit: "1",
+        },
+        {
           label: 97813,
           checked: false,
           modifier: "",
-          cost: "85",
-          unit: "1"
+          cost: "75",
+          unit: "1",
         },
         {
           label: 97814,
           checked: false,
           modifier: "",
-          cost: "210",
-          unit: "3"
+          cost: "120",
+          unit: "2",
+        },
+        {
+          label: 97810,
+          checked: false,
+          modifier: "",
+          cost: "65",
+          unit: "1"
+        },
+        {
+          label: 97811,
+          checked: false,
+          modifier: "",
+          cost: "110",
+          unit: "2"
+        },
+        {
+          label: 97816,
+          checked: false,
+          modifier: "",
+          cost: "100",
+          unit: "2"
         },
         {
           label: 97026,
           checked: false,
           modifier: "GP",
-          cost: "60",
-          unit: "4"
+          cost: "10",
+          unit: "1",
         },
         {
-          label: 97124,
+          label: 97139,
           checked: false,
           modifier: "GP",
-          cost: "50",
-          unit: "1"
-        }
+          cost: "40",
+          unit: "1",
+        },
+        {
+          label: 97140,
+          checked: false,
+          modifier: "GP",
+          cost: "60",
+          unit: "2",
+        },
       ],
       btnShow: false,
       script: "",
