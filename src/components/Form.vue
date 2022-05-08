@@ -120,21 +120,14 @@ export default {
           label: 99203,
           checked: false,
           modifier: "25",
-          cost: "85",
+          cost: "75",
           unit: "1",
-        },
-         {
-          label: 99212,
-          checked: false,
-          modifier: "25",
-          cost: "55",
-          unit: "1"
         },
         {
           label: 99213,
           checked: false,
           modifier: "25",
-          cost: "65",
+          cost: "55",
           unit: "1",
         },
         {
@@ -150,27 +143,6 @@ export default {
           modifier: "",
           cost: "120",
           unit: "2",
-        },
-        {
-          label: 97810,
-          checked: false,
-          modifier: "",
-          cost: "65",
-          unit: "1"
-        },
-        {
-          label: 97811,
-          checked: false,
-          modifier: "",
-          cost: "110",
-          unit: "2"
-        },
-        {
-          label: 97816,
-          checked: false,
-          modifier: "",
-          cost: "100",
-          unit: "2"
         },
         {
           label: 97026,
