@@ -16,7 +16,7 @@ let sleep = (time) => {
 //function to fill the page
 let fillLine = async (month, day, year, cpt) => {
   let lineBase =
-    "componentListPanel:componentListView:30:component:claimLineForm:componentListPanel:componentListView:0:component:";
+    "componentListPanel:componentListView:31:component:claimLineForm:componentListPanel:componentListView:0:component:";
   let lineObjects = [
     {
       html: "fromToDateContainer:fromDate:month",
