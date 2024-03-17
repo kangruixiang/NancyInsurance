@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 // eslint-disable-next-line no-undef
+console.log(BOOKMARK);
 let iframe = document.getElementById("newBodyFrame"); // targets page's iframe
 // eslint-disable-next-line no-unused-vars
 let { website, dates, diagnosisCode, cpt } = BOOKMARK;
