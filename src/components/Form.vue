@@ -166,23 +166,23 @@ export default {
           unit: "2"
         },
         {
-          label: 97816,
+          label: "S8930",
           checked: false,
           modifier: "",
-          cost: "100",
-          unit: "2"
+          cost: "45",
+          unit: "1"
         },
         {
           label: 97026,
           checked: false,
-          modifier: "GP",
+          modifier: "59",
           cost: "10",
           unit: "1",
         },
         {
-          label: 97139,
+          label: 97016,
           checked: false,
-          modifier: "GP",
+          modifier: "59",
           cost: "40",
           unit: "1",
         },
